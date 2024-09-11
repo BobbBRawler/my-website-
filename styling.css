@@ -1,0 +1,68 @@
+h1{
+    background-color: rgb(19, 95, 236);
+    color: beige;
+    text-align: center;
+}
+
+.navbar ul{
+
+    list-style-type: none;
+    background-color: hsl(74, 88%, 63%);
+    color: whitesmoke;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navbar a{
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+}
+
+.navbar a:hover{
+    background-color: rgba(0, 0, 0, 0.203);
+}
+
+.navbar li{
+    float: right;
+    font-size: 20px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+#text1{
+    text-align: center;
+}
+#text2{
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+
+.pic1{
+    float: left;
+    margin-right: 10px;
+
+}
+
+button {
+    background-color: rgb(229, 9, 167);
+    font-size: 15px;
+    text-decoration: none;
+    color: antiquewhite;
+    border-radius: 7px;
+}
+
+
+tr :hover{
+    background-color: hsl(66, 13%, 59%);
+    cursor: pointer;
+
+}
+
